@@ -18,7 +18,6 @@ VS Code
 
 >Purpose of Project
 This project was created to learn:
-
 Java networking
 GUI development
 Client-Server architecture
